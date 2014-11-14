@@ -15,6 +15,7 @@ namespace Bob
         public Form1()
         {
             InitializeComponent();
+            //added from github
         }
     }
 }
