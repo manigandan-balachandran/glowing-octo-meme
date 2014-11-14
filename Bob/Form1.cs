@@ -16,6 +16,13 @@ namespace Bob
         {
             InitializeComponent();
             //added from github
+            //differernt
+            //again
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
